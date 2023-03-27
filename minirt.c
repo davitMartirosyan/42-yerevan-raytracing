@@ -6,7 +6,7 @@
 /*   By: tumolabs <tumolabs@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/27 20:08:14 by tumolabs          #+#    #+#             */
-/*   Updated: 2023/03/28 00:08:11 by tumolabs         ###   ########.fr       */
+/*   Updated: 2023/03/28 00:26:13 by tumolabs         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,3 +29,4 @@ int main(int ac, char **av, char **envp)
 }
 
 // gcc -I includes/ *.c */*.c  -lmlx -framework OpenGL -framework AppKit -o rt
+// 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
