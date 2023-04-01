@@ -28,5 +28,6 @@ int main(int ac, char **av, char **envp)
 	printf("{%f} : {%f} : {%f}\n", a->x, a->y, a->z);
 }
 
+
 // gcc -I includes/ *.c */*.c  -lmlx -framework OpenGL -framework AppKit -o rt
 // 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

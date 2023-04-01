@@ -18,6 +18,7 @@
 #include <string.h>
 #include <math.h>
 #include "../libft/libft.h"
+#include "../gnl/get_next_line.h"
 #include "mathlib.h"
 #include "struct.h"
 #define EPSILION 1.0e-6
